@@ -1,0 +1,26 @@
+.p {
+  background-color: rgba(255, 0, 0, 0.438);
+  font-family: "Arial", serif;
+}
+
+.classic {
+  font-size: 20px;
+}
+
+.big {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#bigBlue {
+  color: blue;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#blackOnGreen {
+  background-color: rgb(146, 252, 146);
+  color: black;
+  font-size: 40px;
+  font-weight: 900;
+}
